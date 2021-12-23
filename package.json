@@ -1,0 +1,19 @@
+{
+  "name": "trackr",
+  "version": "1.0.0",
+  "description": "Logging done right.",
+  "main": "trackr",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Voltrex, Misty",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mysql": "^2.15.19",
+    "@types/pg": "^8.6.3",
+    "chalk": "^5.0.0",
+    "mongodb": "^4.2.2",
+    "mysql": "^2.18.1",
+    "pg": "^8.7.1"
+  }
+}
